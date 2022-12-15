@@ -77,4 +77,4 @@ I have done various projects with the programming language python. Now I continu
 
 <div width="100%" align="center"></div> 
 
-![snake gif](https://github.com/sevimozsoy/sevimozsoy/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/raskolnik0v/raskolnik0v/blob/output/github-contribution-grid-snake.svg)
